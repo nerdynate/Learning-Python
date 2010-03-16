@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import stat, sys, os, string, commands
 
 try:
